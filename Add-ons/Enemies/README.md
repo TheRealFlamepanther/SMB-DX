@@ -1,1 +1,1 @@
-These patches change the enemy sprites.
+These patches change the enemy sprites and/or palettes.
